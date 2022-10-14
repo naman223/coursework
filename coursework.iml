@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/topic1_arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topic3_stacks_queues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topic4_hashmaps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topic5_sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topic6_trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topic7_graphs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topic8_recursion" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
